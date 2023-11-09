@@ -1,0 +1,7 @@
+# gitignore for python ai notebooks
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+__pycache__
