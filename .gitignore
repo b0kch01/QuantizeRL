@@ -5,3 +5,9 @@
 *.pyo
 *.pyd
 __pycache__
+
+wandb/
+tests/
+video/
+*.meta.json
+*.mp4
