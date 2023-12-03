@@ -8,6 +8,4 @@ __pycache__
 
 wandb/
 tests/
-video/
 *.meta.json
-*.mp4
